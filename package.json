@@ -1,5 +1,5 @@
 {
-  "name": "platzidate",
+  "name": "@juanse1595/platzidate",
   "version": "1.0.0",
   "description": "Utilidad para manejar fechas en formato timestamp y long time.",
   "main": "src/index.js",
